@@ -1,0 +1,18 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitoria Maria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-status-code": "^2.1.0",
+    "http-status-codes": "^2.2.0"
+  }
+}
